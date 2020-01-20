@@ -23,6 +23,6 @@ class DashPaintBucket {
     ..style = PaintingStyle.fill;
 
   static final Paint greenPaint = Paint()
-    ..color = const Color(0x7700CC00)
+    ..color = const Color(0x5500CC00)
     ..style = PaintingStyle.fill;
 }
