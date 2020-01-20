@@ -6,4 +6,4 @@ See a [live demo](https://constanting.com/flutter/clock/index.html) with Flutter
 
 Example [Dash O'Clock](dash_clock)
 
-<img src='dash_clock/dash_clock.gif' width='400'>
+<img src='dash_clock.gif' width='400'>
